@@ -1,0 +1,14 @@
+{
+  "name": "shuravin-g-r/for-study",
+  "description": "test for study",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ShuravinGR",
+      "email": "shuravin.g.r@effective-group.ru"
+    }
+  ],
+  "require": {
+  }
+}
