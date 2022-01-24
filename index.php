@@ -1,2 +1,2 @@
 <?php
-echo "first commit";
+echo "first commit\n";
